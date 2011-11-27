@@ -1,6 +1,6 @@
 Name:           maven-doap-plugin
 Version:        1.0
-Release:        4
+Release:        6
 Summary:        Plugins which generate a DOAP file from information in a POM
 
 Group:          Development/Java
