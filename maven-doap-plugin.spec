@@ -5,7 +5,7 @@ Summary:        Plugins which generate a DOAP file from information in a POM
 
 Group:          Development/Java
 License:        ASL 2.0
-URL:            http://maven.apache.org/plugins/maven-doap-plugin/
+URL:            https://maven.apache.org/plugins/maven-doap-plugin/
 # svn export http://svn.apache.org/repos/asf/maven/plugins/tags/maven-doap-plugin-1.0/
 # tar jcf maven-doap-plugin-1.0.tar.gz maven-doap-plugin-1.0/
 Source0:        %{name}-%{version}.tar.bz2
